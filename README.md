@@ -1,1 +1,1 @@
-# cpp-university-labs
+university-array-labs
